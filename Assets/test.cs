@@ -7,6 +7,7 @@ public class test : MonoBehaviour {
 	// Use this for initialization
 
 	Vector3 vec3;
+	Vector2 vec2;
 
 	void Start () {
 		
